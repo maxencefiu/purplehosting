@@ -2,8 +2,11 @@
 Installing Pterodactyl in just a few minutes! <br />
 Please note this script is meant to be used on fresh installations only. You must run it as root. <br />
 <br />
-`curl -Ls https://raw.githubusercontent.com/maxencefiu/purplehosting/main/install.sh | grep -wo "https.*install.sh" | wget -qi - && bash install.sh` <br />
-
+`curl -Ls https://raw.githubusercontent.com/maxencefiu/purplehosting/main/install.sh | grep -wo "https.*install.sh" | wget -qi -` <br />
+`
+<br /> 
+`bash install.sh` <br />
+<br />
 Credit to author : 
 Visit my forum: https://revenact.io <br />
 Telegram group: https://t.me/revenact <br />
