@@ -16,7 +16,7 @@ PHPMYADMIN=5.1.0
 
 preflight(){
     output "Pterodactyl Lamp by PurpleHosting.fr"
-    output "Copyright © 2021 maxencefiu <contact@purplehosing.fr>."
+    output "Copyright © 2021 maxencefiu <contact@purplehosting.fr>."
     output "Join us for support : https://discord.gg/HKHUSWFRMe"
     output ""
 
