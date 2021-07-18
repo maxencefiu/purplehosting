@@ -1,17 +1,13 @@
 # Pterodactyl-Script
 Installing Pterodactyl in just a few minutes! <br />
 Please note this script is meant to be used on fresh installations only. You must run it as root. <br />
-<br />
-`curl -Ls https://raw.githubusercontent.com/maxencefiu/purplehosting/main/install.sh | grep -wo "https.*install.sh" | wget -qi -` <br/>
-<br /> 
-`bash install.sh` <br />
-<br />
+
 Credit to author : 
 Visit my forum: https://revenact.io <br />
 Telegram group: https://t.me/revenact <br />
 Discord group: https://revenact.io/discord <br />
 
-If you need me to help you fix or debug something, contact us here https://discord.gg/7UveXp6weu
+If you need me to help you fix or debug something, contact us here https://discord.com/invite/6zUHsuh
 <br />
 # Now with extra Pterodactyl v1.0
 This Script now includes the new Pterodactyl v1.0 release <br />
